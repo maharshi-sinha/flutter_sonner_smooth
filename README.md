@@ -413,6 +413,10 @@ The example app includes 5 demo pages:
 
 Inspired by [Sonner](https://sonner.emilkowal.ski) by Emil Kowalski.
 
+## Author
+
+* **Maharshi Sinha**  - [Maharshi Sinha](https://github.com/maharshi-sinha)
+
 ## License
 
 MIT -- see [LICENSE](LICENSE) for details.
