@@ -409,6 +409,10 @@ The example app includes 5 demo pages:
 - Dart SDK `>=3.3.0 <4.0.0`
 - Flutter `>=3.19.0`
 
+## Author
+
+**Maharshi Sinha** — [@maharshi-sinha](https://github.com/maharshi-sinha)
+
 ## Credits
 
 Inspired by [Sonner](https://sonner.emilkowal.ski) by Emil Kowalski.

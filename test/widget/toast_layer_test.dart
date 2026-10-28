@@ -22,7 +22,7 @@ void main() {
     testWidgets('calling toast() adds a visible toast', (tester) async {
       await tester.pumpWidget(buildApp());
       toast('Test message');
-      await tester.pump();
+      await tester.pumpAndSettle();
       expect(find.text('Test message'), findsOneWidget);
     });
 
