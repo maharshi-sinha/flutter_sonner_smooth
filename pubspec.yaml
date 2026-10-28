@@ -1,0 +1,30 @@
+name: flutter_sonner_smooth
+description: >-
+  A Sonner-inspired, buttery-smooth toast notification system for Flutter.
+  Zero dependencies, context-free, promise-aware, physics-animated.
+version: 0.1.0
+homepage: https://github.com/maharshi-sinha/flutter_sonner_smooth
+repository: https://github.com/maharshi-sinha/flutter_sonner_smooth
+issue_tracker: https://github.com/maharshi-sinha/flutter_sonner_smooth/issues
+
+topics:
+  - toast
+  - notification
+  - snackbar
+  - ui
+  - animation
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
